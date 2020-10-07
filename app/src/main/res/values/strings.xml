@@ -2,7 +2,7 @@
     <string name="app_name">Chatshaala</string>
 <!--    <string name="url">https://jasonette.github.io/Jasonpedia/hello.json</string>-->
 <!--    <string name="url">https://github.com/tirthakarmahesh211/metastudio-android-app/blob/master/home.json</string>-->
-    <string name="url">https://raw.githubusercontent.com/tirthakarmahesh211/metastudio-android-app/master/hybrid.json</string>
+    <string name="url">https://raw.githubusercontent.com/gnowledge/metastudio-android-app/master/hybrid.json</string>
 <!--    <string name="url">https://github.com/tirthakarmahesh211/metastudio-android-app/blob/master/latest.json</string>-->
     <string name="launch">file://preload.json</string>
 </resources>
